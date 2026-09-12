@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chip-hormonal.com.ar/sitemap.xml
